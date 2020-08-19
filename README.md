@@ -12,8 +12,10 @@
 
 * [Malware Family Analysis](https://www.elastic.co/blog/introducing-elastic-endpoint-security) –Topic modeling techniques assign samples of malware to families.
 
+## Relevent Machine Learning methods
 
+* [MAFI:A Multi-Asset Fragility Indicator using Principal Component Analysis](file:///Users/zruxi/Downloads/SSRN-id2574252.pdf) - This methodalogy could be used to combine multiple risk signals
 
-# Data Sources and Reporting
+## Data Sources and Reporting
 
 * [CVE Details](https://www.cvedetails.com/)
