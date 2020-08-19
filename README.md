@@ -14,7 +14,7 @@
 
 ## Relevent Machine Learning methods
 
-* [MAFI:A Multi-Asset Fragility Indicator using Principal Component Analysis](file:///Users/zruxi/Downloads/SSRN-id2574252.pdf) - This methodalogy could be used to combine multiple risk signals
+* [MAFI:A Multi-Asset Fragility Indicator using Principal Component Analysis](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2574252) - This methodalogy could be used to combine multiple risk signals
 
 ## Data Sources and Reporting
 
