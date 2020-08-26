@@ -14,8 +14,8 @@
 
 ## Relevent Machine Learning methods
 
-### Using PCA to combine signals
-* [MAFI:A Multi-Asset Fragility Indicator using Principal Component Analysis](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2574252) - This methodalogy could be used to combine multiple risk signals
+### Using PCA to combine signals (case study: marketing index/ equivalently it can be used in risk portfolio calculation)
+* [MAFI:A Multi-Asset Fragility Indicator using Principal Component Analysis](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2574252) - This methodology could be used to combine multiple risk signals
 * [A tutorial on Principal Components Analysis](https://ourarchive.otago.ac.nz/bitstream/handle/10523/7534/OUCS-2002-12.pdf?sequence=1&isAllowed=y)
 * [Stack Exchange thread - Making sense of principal component analysis, eigenvectors & eigenvalues](https://stats.stackexchange.com/questions/2691/making-sense-of-principal-component-analysis-eigenvectors-eigenvalues)
 
