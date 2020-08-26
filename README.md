@@ -12,7 +12,7 @@
 
 * [Malware Family Analysis](https://www.elastic.co/blog/introducing-elastic-endpoint-security) –Topic modeling techniques assign samples of malware to families.
 
-## Relevent Machine Learning methods
+## Relevant Machine Learning methods
 
 ### Using PCA to combine signals and feature reduction (case study: marketing index/ equivalently it can be used in risk portfolio calculation)
 * [MAFI:A Multi-Asset Fragility Indicator using Principal Component Analysis](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2574252) - This methodology could be used to combine multiple risk signals
@@ -21,6 +21,9 @@
 
 ### User HMM on cyber security threat detection
 [Marketing Channel Attribution with Markov Chains in Python](https://towardsdatascience.com/marketing-channel-attribution-with-markov-chains-in-python-part-2-the-complete-walkthrough-733c65b23323)
+
+### Topic Modeling to classify NLP related Cyber-Security application papers
+[Contextualized Topic Models](https://github.com/MilaNLProc/contextualized-topic-models)
 
 ## Data Sources and Reporting
 
